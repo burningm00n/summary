@@ -53,14 +53,14 @@
 }
 
 .summaryscore-flex-container{
-    margin: 1em 0;
+    margin: 1em 0 2em;
 }
 
 .summaryscore-flex-container div{
     padding: .7em .7em;
     padding-left: .8em;
     border-radius: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
 
 .summaryscore-flex-container img{

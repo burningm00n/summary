@@ -1,0 +1,28 @@
+/* variables */
+:root{
+    /* gradients */
+    --clr-gradient-400: hsl(252, 100%, 67%);
+    --clr-gradient-300:hsl(241, 81%, 54%);
+
+    --clr-gradient-200:hsla(256, 72%, 46%, 1);
+    --clr-gradient-100: hsla(241, 72%, 46%, 0);
+
+    /* neutrals */
+    --clr-neutral-100: hsl(0, 0%, 100%);
+    --clr-neutral-200: hsl(221, 100%, 96%);
+    --clr-neutral-300: hsl(241, 100%, 89%);
+    --clr-neutral-400: hsl(224, 30%, 27%);
+    --clr-neutral-500: hsl(241, 1%, 66%);
+
+    /*primary*/
+    --clr-primary-100: hsl(0, 100%, 67%);
+    --clr-primary-200: hsl(39, 100%, 56%);
+    --clr-primary-300: hsl(166, 100%, 37%);
+    --clr-primary-400: hsl(234, 85%, 45%);
+
+    /* bg-primary */
+    --clr-bg-100: hsla(0, 100%, 67%, 0.123);
+    --clr-bg-200: hsl(39, 100%, 56%, 0.123);
+    --clr-bg-300: hsl(166, 100%, 37%, 0.123);
+    --clr-bg-400: hsl(234, 85%, 45%, 0.123);
+}

@@ -1,0 +1,120 @@
+.result-flex-container{
+    background-image: linear-gradient(to top, var(--clr-gradient-300) , var(--clr-gradient-400));
+    text-align: center;
+    color: var(--clr-neutral-300);
+    padding: 1em 1em 1.5em;
+    border-radius: 0 0 2em 2em;
+}
+
+
+.result-text{
+    font-weight: 700;
+    font-size: 1.125rem;
+}
+
+
+.total-result{
+    margin: 1em 0;
+    background-image: linear-gradient(to top, var(--clr-gradient-100), var(--clr-gradient-200));
+    display: inline-block;
+    /* width: max-content; */
+    border-radius: 5em;
+    padding: 0.5em 1.3em;
+    font-size: 0.9em;
+    font-weight: 700;
+}
+
+.total-result strong{
+    display: block;
+    font-size: 4.5rem;
+    color: var(--clr-neutral-100);
+}
+
+.result-remark{
+    font-size: 0.7rem;
+    font-weight: 500;
+    /* width: ; */
+}
+
+.result-remark strong{
+    font-size: 1.3rem;
+    display: block;
+    color: var(--clr-neutral-100);
+    margin-bottom: .3rem;
+}
+
+.summary-flex-container{
+    padding: 1em;
+}
+
+.headings{
+    color: var(--clr-neutral-400);
+    font-size: .8rem;
+}
+
+.summaryscore-flex-container{
+    margin: 1em 0;
+}
+
+.summaryscore-flex-container div{
+    padding: .7em .7em;
+    padding-left: .8em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+}
+
+.summaryscore-flex-container img{
+    vertical-align: text-bottom;
+    margin-right: .3em;
+}
+
+.summaryscore-flex-container p{
+    display: inline;
+    font-weight: 600;
+}
+
+.reaction-score{
+    background-color: var(--clr-bg-100);
+    color: var(--clr-primary-100);
+}
+
+
+.memory-score{
+    background-color: var(--clr-bg-200);
+    color: var(--clr-primary-200);
+}
+
+.verbal-score{
+    background-color: var(--clr-bg-300);
+    color: var(--clr-primary-300);
+}
+
+.visual-score{
+    background-color: var(--clr-bg-400);
+    color: var(--clr-primary-400);
+}
+
+p.score{
+    float: right;
+    color: var(--clr-neutral-400);
+    font-weight: 700;
+}
+
+.total-value{
+    color: var(--clr-neutral-500);
+}
+
+.continue-button{
+    display: block;
+    background-color: var(--clr-neutral-400);
+    padding: 1em;
+    text-align: center;
+    color: var(--clr-neutral-100);
+    font-weight: 700;
+    border-radius: 2em;
+    letter-spacing: .3em;
+}
+
+.continue-button:hover{
+    background-image: linear-gradient(to top, var(--clr-gradient-300), var(--clr-gradient-400));
+}

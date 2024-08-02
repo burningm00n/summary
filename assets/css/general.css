@@ -115,6 +115,7 @@ p.score{
     font-size: 1.3rem;
     border-radius: 2em;
     letter-spacing: .1em;
+    cursor: pointer;
 }
 
 .continue-button:hover{
